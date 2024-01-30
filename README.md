@@ -7,7 +7,7 @@ Computer Science Undergraduate From SriLanka
 I am a passionate Computer Science student with a keen interest in UI/UX design and the development of web and mobile applications. My journey in the tech world has led me to develop a diverse set of skills, both in coding and design.
 
 * 🌍  I'm based in SriLanka
-* 🚀  I'm currently working on [My Portfolio](http://github.com/Thenuri/my-portfolio.git)
+* 🚀  I'm currently working on developing my programming skills
 * 🧠  I'm learning Data Science , UI/UX
 * 🤝  I'm open to collaborating on Projects
 
