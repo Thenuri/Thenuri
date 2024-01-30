@@ -10,6 +10,7 @@ I am a passionate Computer Science student with a keen interest in UI/UX design 
 * 🚀  I'm currently working on developing my programming skills
 * 🧠  I'm learning Data Science , UI/UX
 * 🤝  I'm open to collaborating on Projects
+* 🌛   [My Portfolio](https://github.com/Thenuri/portfolio2.git)
 
 <a href="https://www.github.com/Thenuri" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Thenuri?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
