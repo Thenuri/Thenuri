@@ -1,157 +1,147 @@
-<!-- HEADER -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        $ whoami                                              ║
-║        > Thenuri Hettiarachchi                               ║
-║        > CS Graduate · Developer · Designer                  ║
-║        > Based in Sri Lanka  🇱🇰                              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff88,50:00ccff,100:7c3aed&height=200&section=header&text=THENURI.EXE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=LOADING%20DEVELOPER%20PROFILE...&descSize=16&descAlign=50&descAlignY=78" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=E879A0&center=true&vCenter=true&width=600&lines=print(%22Hello+World!+I'm+Thenuri%22);git+commit+-m+%22building+cool+things%22;designing+%2B+coding+%3D+%E2%9D%A4%EF%B8%8F;npm+run+make-it-beautiful)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=600&color=00FF88&center=true&vCenter=true&width=700&lines=%5BSYSTEM+BOOT%5D+Initializing+developer...+%E2%9C%85;%5BSKILL+TREE%5D+UI%2FUX+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+MAXED;%5BQUEST%5D+Building+web+%26+mobile+apps...+%F0%9F%8E%AE;%5BLEVEL+UP%5D+Data+Science+unlocked+%F0%9F%94%93;%5BSTATUS%5D+Ready+to+collaborate+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<!-- ABOUT -->
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+## ⚡ PLAYER STATS
 
-```bash
-$ cat about_thenuri.txt
 ```
-
-```yaml
-name        : Thenuri Hettiarachchi
-role        : CS Graduate & UI/UX Enthusiast
-location    : Sri Lanka 🇱🇰
-status      : open_to_collaborate = true
-learning    : ["Data Science", "UI/UX Design"]
-portfolio   : https://thenuri-portfolio.onrender.com
-interests   : ["Clean UI", "Creative Code", "Problem Solving"]
-fun_fact    : "I make things pretty AND functional 💅"
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   PLAYER       : Thenuri Hettiarachchi                              │
+│   CLASS        : Full Stack Developer + UI/UX Designer              │
+│   REGION       : Sri Lanka  🇱🇰                                      │
+│   GUILD        : Open Source & Collaborative Projects               │
+│   CURRENT ARC  : Data Science + UI/UX Mastery                       │
+│   PORTFOLIO    : https://thenuri-portfolio.onrender.com             │
+│   STATUS       : 🟢 ONLINE — Available for Quests                   │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
-
-```bash
-$ echo "Let's build something amazing together!"
-> Let's build something amazing together!
-```
-
-<br clear="right"/>
 
 ---
 
-<!-- SKILLS -->
+## 🎮 SKILL TREE
 
-```bash
-$ ls -la skills/
-```
+> **LANGUAGES** `— Core Abilities`
 
-**`/languages`**
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00ccff)
+![Java](https://img.shields.io/badge/Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=00ff88)
+![C#](https://img.shields.io/badge/C%23-0a0a0a?style=for-the-badge&logo=csharp&logoColor=7c3aed)
+![Dart](https://img.shields.io/badge/Dart-0a0a0a?style=for-the-badge&logo=dart&logoColor=00ccff)
+![PHP](https://img.shields.io/badge/PHP-0a0a0a?style=for-the-badge&logo=php&logoColor=00ff88)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=00ccff)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![C#](https://img.shields.io/badge/-C%23-0d1117?style=flat-square&logo=csharp&logoColor=239120)
-![Dart](https://img.shields.io/badge/-Dart-0d1117?style=flat-square&logo=dart&logoColor=0175C2)
-![PHP](https://img.shields.io/badge/-PHP-0d1117?style=flat-square&logo=php&logoColor=777BB4)
-![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+> **FRAMEWORKS** `— Equipped Weapons`
 
-**`/frameworks`**
+![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-0a0a0a?style=for-the-badge&logo=vuedotjs&logoColor=00ff88)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=00ff88)
+![Express](https://img.shields.io/badge/Express-0a0a0a?style=for-the-badge&logo=express&logoColor=ffffff)
+![Laravel](https://img.shields.io/badge/Laravel-0a0a0a?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Flutter](https://img.shields.io/badge/Flutter-0a0a0a?style=for-the-badge&logo=flutter&logoColor=00ccff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0a0a0a?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0a0a0a?style=for-the-badge&logo=bootstrap&logoColor=7c3aed)
+![MUI](https://img.shields.io/badge/MUI-0a0a0a?style=for-the-badge&logo=mui&logoColor=007FFF)
 
-![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/-Vue.js-0d1117?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=node.js&logoColor=6DA55F)
-![Express](https://img.shields.io/badge/-Express-0d1117?style=flat-square&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20)
-![Flutter](https://img.shields.io/badge/-Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-0d1117?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=8511FA)
-![Material UI](https://img.shields.io/badge/-MUI-0d1117?style=flat-square&logo=mui&logoColor=007FFF)
+> **DATABASES** `— Storage Vaults`
 
-**`/databases`**
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=00ccff)
+![Firebase](https://img.shields.io/badge/Firebase-0a0a0a?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Oracle](https://img.shields.io/badge/Oracle-0a0a0a?style=for-the-badge&logo=oracle&logoColor=F80000)
+![SQLite](https://img.shields.io/badge/SQLite-0a0a0a?style=for-the-badge&logo=sqlite&logoColor=00ff88)
 
-![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![Firebase](https://img.shields.io/badge/-Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Oracle](https://img.shields.io/badge/-Oracle-0d1117?style=flat-square&logo=oracle&logoColor=F80000)
-![SQLite](https://img.shields.io/badge/-SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=07405e)
+> **TOOLS** `— Utility Belt`
 
-**`/design_tools`**
-
-![Figma](https://img.shields.io/badge/-Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
-![Canva](https://img.shields.io/badge/-Canva-0d1117?style=flat-square&logo=canva&logoColor=00C4CC)
-![Postman](https://img.shields.io/badge/-Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)
-![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=F05033)
-![Selenium](https://img.shields.io/badge/-Selenium-0d1117?style=flat-square&logo=selenium&logoColor=43B02A)
-![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-![Vite](https://img.shields.io/badge/-Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)
+![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=F05033)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Vite](https://img.shields.io/badge/Vite-0a0a0a?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Selenium](https://img.shields.io/badge/Selenium-0a0a0a?style=for-the-badge&logo=selenium&logoColor=00ff88)
+![Canva](https://img.shields.io/badge/Canva-0a0a0a?style=for-the-badge&logo=canva&logoColor=00C4CC)
 
 ---
 
-<!-- STATS -->
+## 🏆 ACHIEVEMENT BOARD
 
-```bash
-$ git log --stat thenuri
 ```
+╔══════════════════════════╦══════════════════════════════════════════╗
+║  ACHIEVEMENT             ║  STATUS                                  ║
+╠══════════════════════════╬══════════════════════════════════════════╣
+║  🎓 CS Graduate          ║  ██████████  COMPLETED ✅               ║
+║  🎨 UI/UX Designer       ║  ████████░░  MASTERING...               ║
+║  🌐 Web Developer        ║  █████████░  ADVANCED                   ║
+║  📱 Mobile Developer     ║  ████████░░  ADVANCED                   ║
+║  🤖 Data Science         ║  ████░░░░░░  UNLOCKED 🔓                ║
+║  ☁️  Cloud/DevOps        ║  ███░░░░░░░  IN PROGRESS...             ║
+╚══════════════════════════╩══════════════════════════════════════════╝
+```
+
+---
+
+## 📊 BATTLE STATS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Thenuri&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=E879A0&icon_color=E879A0&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thenuri&langs_count=8&hide_border=true&bg_color=0d1117&title_color=E879A0&text_color=c9d1d9&layout=compact" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Thenuri&show_icons=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=00ff88&icon_color=00ccff&text_color=ffffff&ring_color=7c3aed" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thenuri&langs_count=8&hide_border=true&bg_color=0a0a0a&title_color=00ff88&text_color=ffffff&layout=compact" width="40%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thenuri&hide_border=true&background=0d1117&stroke=E879A0&ring=E879A0&fire=ff79c6&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=E879A0&sideLabels=E879A0&dates=6e7681" width="55%" />
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thenuri&hide_border=true&background=0a0a0a&stroke=00ff88&ring=7c3aed&fire=00ccff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff88&sideLabels=00ff88&dates=888888" width="58%" />
 
 </div>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-
-```bash
-$ git log --graph --oneline
-```
+## 🗺️ COMMIT MAP — Activity Radar
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thenuri&bg_color=0d1117&color=E879A0&line=E879A0&point=ff79c6&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thenuri&bg_color=0a0a0a&color=00ff88&line=7c3aed&point=00ccff&area=true&hide_border=true&custom_title=CONTRIBUTION+RADAR" width="95%" />
 </div>
 
 ---
 
-<!-- CONNECT -->
-
-```bash
-$ curl --location thenuri.social
-```
+## 🌐 CONNECT — Find Me In The Wild
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=E879A0)](https://www.linkedin.com/in/thenuri-hettiarachchi-09a9b1259/)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E879A0)](http://www.instagram.com/tsandara_/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=E879A0)](https://www.github.com/Thenuri)
-[![Behance](https://img.shields.io/badge/Behance-0d1117?style=for-the-badge&logo=behance&logoColor=E879A0)](https://www.behance.com/thenuttsm1005)
-[![Dribbble](https://img.shields.io/badge/Dribbble-0d1117?style=for-the-badge&logo=dribbble&logoColor=E879A0)](https://www.dribbble.com/_Thenu01)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox-browser&logoColor=E879A0)](https://thenuri-portfolio.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00ccff&labelColor=0a0a0a)](https://www.linkedin.com/in/thenuri-hettiarachchi-09a9b1259/)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0a0a0a)](https://www.github.com/Thenuri)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=firefox-browser&logoColor=7c3aed&labelColor=0a0a0a)](https://thenuri-portfolio.onrender.com)
+[![Behance](https://img.shields.io/badge/Behance-0a0a0a?style=for-the-badge&logo=behance&logoColor=00ccff&labelColor=0a0a0a)](https://www.behance.com/thenuttsm1005)
+[![Dribbble](https://img.shields.io/badge/Dribbble-0a0a0a?style=for-the-badge&logo=dribbble&logoColor=00ff88&labelColor=0a0a0a)](https://www.dribbble.com/_Thenu01)
+[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=7c3aed&labelColor=0a0a0a)](http://www.instagram.com/tsandara_/)
 
 </div>
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
 ```
-$ shutdown -h now
-> saving state...
-> thanks for visiting!
-> see you on the other side ✨
-> Connection closed by remote host.
+> SESSION TERMINATED
+> COMMITS SAVED TO CLOUD
+> THANKS FOR VISITING — COME BACK WITH A PR ⚡
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=Thenuri&style=flat-square&color=E879A0&label=visitors)
+![](https://komarev.com/ghpvc/?username=Thenuri&style=flat-square&color=00ff88&label=VISITORS+COUNT)
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,50:00ccff,100:00ff88&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
